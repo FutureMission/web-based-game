@@ -1,0 +1,46 @@
+#div1{
+    text-align: center;
+}
+*{
+    background-color: lightsteelblue;
+    background-image: url(math-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.holder{
+    color: red;
+}
+input{
+    color: blue;
+    background-color: white;
+    border-radius: 10px;
+}
+::placeholder{
+    color: gold;
+}
+.result{
+    color: red;
+}
+label{
+    margin-right: 20px;
+    padding-right: 10px;
+}
+.btn{
+    color: purple;
+    background-color: rgb(99, 210, 30);
+    border-radius: 10px;
+    font-family: cursive;
+    cursor: pointer;
+    box-shadow: 2px 2px 3px black;
+}
+label{
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+    font-size: 25px;
+    color: green;
+    text-shadow: 2px 2px 10px black;
+    font-weight: 2rem;
+}

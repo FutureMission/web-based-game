@@ -1,0 +1,28 @@
+*{
+    background-color: grey;
+}
+#div1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#header1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 2px black;
+}
+.btn{
+    background-color: lightcoral;
+    font: 20px;
+    width: 100px;
+    height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 2px 2px 2px black;
+    cursor: pointer;
+    border-radius: 15;
+    
+}
+#countLabel{
+    font-size: 50px;
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
